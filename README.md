@@ -10,13 +10,13 @@
 
 <h2>📜 My Certifications </h2>
 
-- [CompTIA Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Fortinet Network Security Expert Level 2: Certified Associate (NSE 2)](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Fortinet Network Security Expert Level 1: Certified Associate (NSE 1)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [CompTIA Cloud Essentials+](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [CompTIA A+](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-- [Microsoft Technology Associate: Security Fundamentals] ()
-- [Microsoft Technology Associate: Windows OS Fundamentals] ()
+- CompTIA Security+ ce
+- Fortinet Network Security Expert Level 2: Certified Associate (NSE 2)
+- Fortinet Network Security Expert Level 1: Certified Associate (NSE 1)
+- CompTIA Cloud Essentials+
+- CompTIA A+ ce
+- Microsoft Technology Associate: Security Fundamentals
+- Microsoft Technology Associate: Windows OS Fundamentals
 
 <h2> 🤳 Connect with me:</h2>
 
