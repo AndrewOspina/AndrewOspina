@@ -3,9 +3,9 @@
 <h2>💻 Cybersecurity Projects:</h2>
 
 - <b>Azure Sentinel (SIEM) RDP Logging and Mapping (Microsoft Azure)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)- <b>Azure Sentinel (SIEM) RDP Logging and Mapping (Microsoft Azure)</b>
-- <b>Azure Sentinel (SIEM) RDP Logging and Mapping (Microsoft Azure)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Utilized Azure Log Analytics, Firewall Rules, and VMs](https://github.com/joshmadakor1/Algorithms-Practice)- <b>Azure Sentinel (SIEM) RDP Logging and Mapping (Microsoft Azure)</b>
+- <b>SOC Level 1: Hash Analysis and IP Address Blocking (TryHackMe)</b>
+  - [Identified Hash Values and IP Source Info through Various Algorithims, along with using Open Source Threat Intelligence Tools (LookingGlass, VirusTotal, OPSWAT, & MITRE ATT&CK Matrix)](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2>📜 My Certifications </h2>
