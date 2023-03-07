@@ -5,7 +5,7 @@
 - <b>Azure Sentinel (SIEM) RDP Logging and Mapping (Microsoft Azure)</b>
   - [Utilized Azure Log Analytics, Firewall Rules, and VMs](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>SOC Level 1: Hash Analysis and IP Address Blocking (TryHackMe)</b>
-  - [Identified Hash Values and IP Source Info through Various Algorithims, along with using Open Source Threat Intelligence Tools (LookingGlass, VirusTotal, OPSWAT, & MITRE ATT&CK Matrix)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Identified Hash Values and IP Source Info through Various Algorithims, along with using Open Source Threat Intelligence Tools (LookingGlass, VirusTotal, OPSWAT, & MITRE ATT&CK Matrix)](https://github.com/AndrewOspina/TryHackMe-PyramidOfPain)
 
 
 <h2>📜 My Certifications </h2>
