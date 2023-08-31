@@ -8,6 +8,7 @@
   - [Identified Hash Values and IP Source Info through Various Algorithims, along with using Open Source Threat Intelligence Tools (LookingGlass, VirusTotal, OPSWAT, & MITRE ATT&CK Matrix)](https://github.com/AndrewOspina/TryHackMe-PyramidOfPain)
 
 <h2>🔌 Networking Projects:</h2>
+
 - <b>Networking 101 - Basic Client & Server Setup (Packet Tracer)</b>
   - [IP Address Schemes, Subnetting, UDP/TCP Protocols, Device Hardening](https://github.com/AndrewOspina/MicrosoftAzureSIEM-Lab)
   
