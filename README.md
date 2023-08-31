@@ -7,12 +7,16 @@
 - <b>SOC Level 1: Hash Analysis and IP Address Blocking (TryHackMe)</b>
   - [Identified Hash Values and IP Source Info through Various Algorithims, along with using Open Source Threat Intelligence Tools (LookingGlass, VirusTotal, OPSWAT, & MITRE ATT&CK Matrix)](https://github.com/AndrewOspina/TryHackMe-PyramidOfPain)
 
-
+<h2>🔌 Networking Projects:</h2>
+- <b>Networking 101 - Basic Client & Server Setup (Packet Tracer)</b>
+  - [IP Address Schemes, Subnetting, UDP/TCP Protocols, Device Hardening](https://github.com/AndrewOspina/MicrosoftAzureSIEM-Lab)
+  
 <h2>📜 My Certifications </h2>
 
 - CompTIA Security+ ce
-- Fortinet Network Security Expert Level 2: Certified Associate (NSE 2)
-- Fortinet Network Security Expert Level 1: Certified Associate (NSE 1)
+- CompTIA Network+ ce
+- Fortinet Network Security Expert: Certified Associate (NSE 1, 2, 3)
+- Microsoft 365 Certified - Fundamentals
 - CompTIA Cloud Essentials+
 - CompTIA A+ ce
 - Microsoft Technology Associate: Security Fundamentals
