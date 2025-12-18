@@ -21,7 +21,7 @@
 
 - CompTIA Security+ ce
 - CompTIA Network+ ce
-- Fortinet Network Security Expert: Certified Associate (NSE 1, 2, 3)
+- Microsoft Certified - Azure Fundamentals
 - Microsoft 365 Certified - Fundamentals
 - CompTIA Cloud Essentials+
 - CompTIA A+ ce
