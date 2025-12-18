@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andrew! <br/><a href="https://github.com/AndrewOspina">Aspiring Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/andrewospina123/">IT Technician</a>, <a href="https://www.brightpoint.edu/services/student-activities/student-clubs/">College Student & Technology Club Executive</a></h1>
+<h1>Hi, I'm Andrew! <br/><a href="https://github.com/AndrewOspina">Aspiring Tech Professional</a>, <a href="https://www.linkedin.com/in/andrewospina123/">Junior MSP Engineern</a>, <a href="https://www.brightpoint.edu/services/student-activities/student-clubs/">College Student & Technology Club Executive</a></h1>
 
 <h2>💻 Cybersecurity Projects:</h2>
 
