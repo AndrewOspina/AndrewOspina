@@ -10,12 +10,12 @@
 <h2>🔌 Networking Projects:</h2>
 
 - <b>Networking 101 - Basic Client & Server Setup (Packet Tracer)</b>
-  - [IP Address Schemes, Subnetting, UDP/TCP Protocols, Device Hardening](https://github.com/AndrewOspina/MicrosoftAzureSIEM-Lab)
+  - IP Address Schemes, Subnetting, UDP/TCP Protocols, Device Hardening (In-progress)
 
 <h2> 💡 Agentic AI Development Projects:</h2> 
 
 - <b>AWS AI Models - Metadata Enrichment Agent, Policy Drift Agent, Data Privacy Pipeline enhancements, & GIA </b>
-  - [IP Address Schemes, Subnetting, UDP/TCP Protocols, Device Hardening](https://github.com/AndrewOspina/MicrosoftAzureSIEM-Lab)
+  - [Helped develop 3 proof-of-concept systems that automate metadata enrichment, governance monitoring, and differential privacy processing. It also includes a government impact assessment on how these AI systems comply with 2 key Virginia governance mandates.]([Final Demo.pptx](https://github.com/user-attachments/files/24240299/Final.Demo.pptx)
   
 <h2>📜 My Certifications </h2>
 
