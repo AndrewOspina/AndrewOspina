@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andrew! <br/><a href="https://github.com/AndrewOspina">Aspiring Tech Professional</a>, <a href="https://www.linkedin.com/in/andrewospina123/">Junior MSP Engineern</a>, <a href="https://business.vcu.edu/academics/information-systems/">& VCU Information Systems Student</a></h1>
+<h1>Hi, I'm Andrew! <br/><a href="https://github.com/AndrewOspina">Aspiring Tech Professional</a>, <a href="https://www.linkedin.com/in/andrewospina123/">Junior MSP Engineer</a>, <a href="https://business.vcu.edu/academics/information-systems/">& VCU Information Systems Student</a></h1>
 
 <h2>💻 Cybersecurity Projects:</h2>
 
@@ -10,6 +10,11 @@
 <h2>🔌 Networking Projects:</h2>
 
 - <b>Networking 101 - Basic Client & Server Setup (Packet Tracer)</b>
+  - [IP Address Schemes, Subnetting, UDP/TCP Protocols, Device Hardening](https://github.com/AndrewOspina/MicrosoftAzureSIEM-Lab)
+
+<h2> 💡 Agentic AI Development Projects:</h2> 
+
+- <b>AWS AI Models - Metadata Enrichment Agent, Policy Drift Agent, Data Privacy Pipeline enhancements, & GIA </b>
   - [IP Address Schemes, Subnetting, UDP/TCP Protocols, Device Hardening](https://github.com/AndrewOspina/MicrosoftAzureSIEM-Lab)
   
 <h2>📜 My Certifications </h2>
