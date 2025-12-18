@@ -14,7 +14,7 @@
 
 <h2> 💡 Agentic AI Development Projects:</h2> 
 
-- <b>AWS AI Models - Metadata Enrichment Agent, Policy Drift Agent, Data Privacy Pipeline enhancements, & GIA </b>
+- <b>AWS AI Models - Metadata Enrichment Agent, Policy Drift Agent, Data Privacy Pipeline Enhancements, & Governance Research </b>
   - [Helped develop 3 proof-of-concept systems that automate metadata enrichment, governance monitoring, and differential privacy processing. It also includes a government impact assessment on how these AI systems comply with 2 key Virginia governance mandates.](https://github.com/user-attachments/files/24240299/Final.Demo.pptx)
   
 <h2>📜 My Certifications </h2>
